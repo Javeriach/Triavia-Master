@@ -3,8 +3,8 @@ import WelcomePage from './Components/LandingPage/WelcomePage';
 import Navbar from './Components/LandingPage/Navbar';
 // import Navbar from './components/LandingPage/Navbar';
 import QuizData from './Components/QuizData';
-import 'bootstrap/dist/css/bootstrap.css';
-import { Modal, Button } from 'bootstrap';
+//import 'bootstrap/dist/css/bootstrap.css';
+//import { Modal, Button } from 'bootstrap';
 import './App.css';
 
 function App() {
